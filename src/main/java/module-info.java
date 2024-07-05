@@ -5,6 +5,4 @@ module mbouch.mbouchpos {
 
     opens mbouch.starter;
     opens mbouch.controllers;
-
-
 }
