@@ -27,7 +27,8 @@ public class DataBase {
     private String databaseName = "test";
     private String username = "root";
     private String password = "jgCmDuqz5#";
-    private String initSqlPath = "src/main/java/mbouch/database/init.sql"; // Adjust the path to your init.sql file
+    //private String initSqlPath = "src/main/java/mbouch/database/init.sql"; // Adjust the path to your init.sql file
+    private String initSqlPath = "src/main/resources/mbouch/database/init.sql";
 
     // Private constructor to prevent instantiation
     private DataBase() {
